@@ -1,0 +1,4 @@
+"C:\Program Files\Java\jdk-11.0.6\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\lib\idea_rt.jar=62879:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Derek\Documents\GitHub\277\Lab\Midterm\out\production\Midterm Midterm.CountMixed
+Number of Lines with Letters 4
+
+Process finished with exit code 0

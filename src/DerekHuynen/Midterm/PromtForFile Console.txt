@@ -1,0 +1,11 @@
+CProgram FilesJavajdk-11.0.6binjava.exe -javaagentCProgram FilesJetBrainsIntelliJ IDEA 2019.3.3libidea_rt.jar=62885CProgram FilesJetBrainsIntelliJ IDEA 2019.3.3bin -Dfile.encoding=UTF-8 -classpath CUsersDerekDocumentsGitHub277LabMidtermoutproductionMidterm Midterm.PromptForFile
+Enter a file name hi
+An error occurred. java.io.FileNotFoundException File doesn't exist
+
+Enter a file name PromtForFileConsole
+An error occurred. java.io.FileNotFoundException File doesn't exist
+
+Enter a file name PromptForFileConsole
+Test File
+
+Process finished with exit code 0

@@ -1,0 +1,40 @@
+ARK | Compare Intel® Products
+3/1/2020 17:41
+	Intel® Pentium® 4 Processor 2.80 GHz, 512K Cache, 533 MHz FSB ()
+Essentials
+Product Collection	Legacy Intel® Pentium® Processor
+Code Name	Products formerly Northwood
+Vertical Segment	Desktop
+Off Roadmap	No
+Status	Discontinued
+Launch Date	Q1'02
+Lithography	130 nm
+Performance
+# of Cores	1
+# of Threads	1
+Processor Base Frequency	2.80 GHz
+Cache	512 KB L2 Cache
+Bus Speed	533 MHz
+FSB Parity	No
+TDP	68.4 W
+VID Voltage Range	1.340V-1.525V
+Supplemental Information
+Embedded Options Available	Yes
+Package Specifications
+Sockets Supported	PPGA478
+TCASE	70°C
+Package Size	35mm x 35mm
+Processing Die Size	131 mm2
+# of Processing Die Transistors	55 million
+Advanced Technologies
+Intel® Turbo Boost Technology ‡	No
+Intel® Hyper-Threading Technology ‡	No
+Intel® Virtualization Technology (VT-x) ‡	No
+Intel® 64 ‡	No
+Instruction Set	32-bit
+Idle States	No
+Enhanced Intel SpeedStep® Technology	No
+Intel® Demand Based Switching	No
+Security & Reliability
+Intel® Trusted Execution Technology ‡	No
+Execute Disable Bit ‡	No

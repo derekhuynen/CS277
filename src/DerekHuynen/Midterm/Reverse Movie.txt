@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-11.0.6\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\lib\idea_rt.jar=62892:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Derek\Documents\GitHub\277\Lab\Midterm\out\production\Midterm Midterm.ReverseMovie
+Movie - title: Movie1 Producer: derek Year published: 1994
+Movie - title: Movie2 Producer: Jake Year published: 1995
+Movie - title: Movie3 Producer: Gordi Year published: 1996
+Movie - title: Movie4 Producer: Kenji Year published: 1998
+Found the end of the file.
+Movie - title: Movie4 Producer: Kenji Year published: 1998
+Movie - title: Movie3 Producer: Gordi Year published: 1996
+Movie - title: Movie2 Producer: Jake Year published: 1995
+Movie - title: Movie1 Producer: derek Year published: 1994
+Found the end of the file.
+Proved I reversed the order
+Movie - title: Movie4 Producer: Kenji Year published: 1998
+Movie - title: Movie3 Producer: Gordi Year published: 1996
+Movie - title: Movie2 Producer: Jake Year published: 1995
+Movie - title: Movie1 Producer: derek Year published: 1994
+
+Process finished with exit code 0

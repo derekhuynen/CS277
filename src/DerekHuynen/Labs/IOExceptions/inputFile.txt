@@ -1,0 +1,2 @@
+0 0 4 4 8 		//This is a legitimate triangle that should yield an area of 16 or so
+0 0 4 0 8 0		//This is a flat triangle and will yield a flat zero for length.

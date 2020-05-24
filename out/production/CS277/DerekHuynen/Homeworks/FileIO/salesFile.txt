@@ -1,0 +1,4 @@
+Derek;cleaning;100.0;1/1/1000
+Jake;dinner;1000.0;2/2/2000
+Some Errors;breakfast;10.22;1/1/1000
+BOB Marley;dinner;2000.0;2/2/2000
